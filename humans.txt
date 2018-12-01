@@ -12,5 +12,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    
-   docker , jenkins , git/github
+    jQuery, Modernizr
+   docker , jenkins , git/github  
+ trying to create conflict
