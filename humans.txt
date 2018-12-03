@@ -19,3 +19,5 @@
 
 for rebase
 
+checking mutiple stash
+
